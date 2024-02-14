@@ -1,0 +1,48 @@
+body {
+    font-family: inherit;
+    background-color: white;
+}
+
+.login {
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 332px;
+}
+
+input {
+    height: 38px;
+    border: 0;
+    width: 332px;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 2px;
+}
+
+form {
+    width: 300px;
+    text-align: center;
+    margin-top: -10;
+}
+
+.loginpage {
+    padding: 40px;
+    width: 250px;
+    margin-top: 90px;
+    margin-left: 180px;
+    margin: 0 auto;
+}
+
+.create {
+    background-color: #53d320;
+    border: none;
+    border-radius: 6px;
+    font-size: 25px;
+    line-height: 48px;
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 30px;
+}
